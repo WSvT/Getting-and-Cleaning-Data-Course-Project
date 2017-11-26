@@ -148,4 +148,4 @@ The following transformations were applied to the source data:
    * Replaced (supposedly incorrect as per source's features_info.txt file) BodyBody with Body.
 5. From the data set in step 4, the final data set was created with the average of each variable for each activity and each subject.
 
-The collection of the source data and the transformations listed above were implemented by the run_analysis.R R script .
+The collection of the source data and the transformations listed above were implemented by the ` run_analysis.R` R script .
